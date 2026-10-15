@@ -7,6 +7,6 @@ var CONFIG={
   downloadUrl:"https://www.mediafire.com/file/04hwt6a5egvffdx/eFootball_makame+Ziru_27.apk/file",
   hint:"Watch the video — the password appears in it.",
   channelHandle:"shadowmodes09",
-  clientId:"PASTE_YOUR_GOOGLE_CLIENT_ID_HERE"
+  clientId:"210822308425-0kkkak039t6gugsa8bheanl1kc0jdl53.apps.googleusercontent.com"
 };
 /* ======================== */
